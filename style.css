@@ -64,7 +64,7 @@ button:active{
 
 input {
     width: 342px;
-    padding: 13px 233px 30px 16px;
+    padding: 13px 0px 30px 16px;
     border-radius: 14px;
     border: 1px solid rgba(255, 255, 255, 0.20);
     background: rgba(255, 255, 255, 0.25);
@@ -75,6 +75,7 @@ input {
     line-height: normal;
     margin: 0 62px;
     opacity: 0.7;
+    
 }
 
 
